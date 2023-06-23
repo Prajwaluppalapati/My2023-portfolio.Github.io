@@ -1,0 +1,89 @@
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: black;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(104, 104, 104);
+    border-radius: 50px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #c5c3c3;
+  }
+  body{
+    background:rgb(36, 36, 36);
+  }
+  h1{
+    color: white;
+    font-family: 'anybody';
+    text-align: center;
+  }
+  h2{
+    color: white;
+    font-family: 'anybody';
+    margin-left: 50px;
+  }
+  img{
+    border-radius: 50px;
+    height: 200px;
+    width: 380px;
+  }
+  .img_4{
+    margin-left: 1150px;
+    margin-top: -208px;
+  }
+  .S_1{
+    margin-top: 230px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -225px;
+    text-decoration: none;
+    border: white solid;
+    color: white;
+    font-size: xx-large;
+    padding: 5px 10px 5px 10px;
+    position: relative;
+    position: absolute;
+  }
+  .S_1:hover{
+    color: black;
+    background: white;  
+  }
+  .S_4{
+    margin-left: 1310px;
+    margin-top: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration: none;
+    border: white solid;
+    color: white;
+    font-size: xx-large;
+    padding: 5px 10px 5px 10px;
+    position: relative;
+    position: absolute;
+  }
+  .S_4:hover{
+    color: black;
+    background: white;  
+  }
+  .S_2{
+    margin-top: 230px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -225px;
+    text-decoration: none;
+    border: white solid;
+    color: white;
+    font-size: xx-large;
+    padding: 5px 10px 5px 10px;
+    position: relative;
+    position: absolute;
+  }
+  .S_2:hover{
+    color: black;
+    background: white;  
+  }
